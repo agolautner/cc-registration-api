@@ -1,0 +1,20 @@
+[
+    {
+        "username": "asdf",
+        "password": "asdf",
+        "todoList": [
+            "laugh at own misery",
+            "eat hot cheetos",
+            "binge-swipe on tinder"
+        ]
+    },
+    {
+        "username": "abcd",
+        "password": "abcd",
+        "todoList": [
+            "feed the cat",
+            "eat some pickles",
+            "cry alone"
+        ]
+    }
+]
